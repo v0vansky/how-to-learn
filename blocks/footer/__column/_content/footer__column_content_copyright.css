@@ -1,0 +1,6 @@
+.footer__column_content_copyright {
+  position: relative;
+  flex-basis: 711px;
+  flex-grow: unset;
+  list-style: none;
+}
