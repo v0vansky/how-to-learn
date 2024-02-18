@@ -3,4 +3,5 @@
 
 ------
 
-Сайт написан с использованием технологий **HTML** и **CSS**.  Автор работы: _Владимир Стенин_
+Сайт написан с использованием технологий ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5) и ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
+Автор работы: _Владимир Стенин_
